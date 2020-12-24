@@ -1,3 +1,15 @@
+# All in one package tracker utilizing RESTful API's
+
+this project's functionality is to track any package for any carrier. That way a user who has multiple items shipping doesn't have to worry about having multiple tabs open to keep track of the progress of their parcel
+
+# Current limitations
+
+for the free tier, it seems that we will only be able to track 50-100 parcels per month with the current API being used. So unless general usage is shown. This will be capped at the free tier
+
+#Link
+
+link is TBA. will be updated when project is finished
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
